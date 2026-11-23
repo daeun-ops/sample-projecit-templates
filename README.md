@@ -9,22 +9,6 @@
 
 
 
-## 팀 소개 
-
-
-
-### 팀명 : TEAM Naver 
-
-| <a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@GithubID</b></sub></a> | <a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@GithubID</b></sub></a> | <a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@GithubID</b></sub></a> | <a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/111436967?v=4" width="100px"/><br/><sub><b>@GithubID</b></sub></a> | <a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/85716720?v=4" width="100px"/><br/><sub><b>@GithubID</b></sub></a> | <a href="https://github.com/orioncsy"><img src="https://avatars.githubusercontent.com/u/90237119?v=4" width="100px"/><br/><sub><b>@orioncsy</b></sub></a> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| DAVID | SOPHIE | ZOE | IVAR | JADEN | AMINA |
-
-
----
-<br>
-
-
-
 ## 프로젝트 개요
 > ### 개발 기간 
 > **YYYY-MM-DD - YYYY-MM-DD**
@@ -85,6 +69,23 @@
 <br>
 
 
+##  팀 소개
+
+### TEAM Naver
+
+| DAVID | SOPHIE | ZOE | IVAR | JADEN | AMINA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/>@GithubID</a> | <a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/>@GithubID</a> | <a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/>@GithubID</a> | <a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/111436967?v=4" width="100px"/><br/>@GithubID</a> | <a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/85716720?v=4" width="100px"/><br/>@GithubID</a> | <a href="https://github.com/orioncsy"><img src="https://avatars.githubusercontent.com/u/90237119?v=4" width="100px"/><br/>@orioncsy</a> |
+| **담당 역할** | **담당 역할** | **담당 역할** | **담당 역할** | **담당 역할** | **담당 역할** |
+| Frontend | Backend | Backend | AI | Frontend | DevOps |
+| **주요 담당 기능** | **주요 담당 기능** | **주요 담당 기능** | **주요 담당 기능** | **주요 담당 기능** | **주요 담당 기능** |
+| 로그인 UI<br/>회원가입 화면 | 회원가입 API<br/>사용자 인증 | 게시글 CRUD<br/>댓글 기능 | AI 모델 연동<br/>추천 시스템 | 메인 페이지<br/>검색 UI | 배포 환경 구축<br/>CI/CD |
+
+---
+<br>
+
+
+
 > ## 배포 링크
 > 
 > ### [ 배포 링크 - 네이버](https:www.naver.com)
@@ -99,7 +100,6 @@
 > ### [ 발표 문서 ](https://deview-serving.pstatic.net/v1/files?objectPath=data/deview/session/attach/%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%20%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB.pdf)
 ---
 <br>
-
 
 
 
@@ -174,6 +174,13 @@
 ## 시스템 아키텍쳐 
 
 <img src="https://user-images.githubusercontent.com/90237119/215304129-d8006105-cf1c-49c7-a819-4f819dfac523.png"/>
+
+---
+<br>
+
+
+## ERD 
+<img width="626" height="385" alt="image" src="https://github.com/user-attachments/assets/2a12ba4a-29cd-4f4c-a5f5-3120182eb0da" />
 
 ---
 <br>
