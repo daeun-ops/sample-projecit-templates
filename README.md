@@ -32,7 +32,9 @@
 **YYYY-MM-DD - YYYY-MM-DD**
 <br>
 
-### 프로젝트 명 : 네이버 Naver
+### 프로젝트 명 
+**네이버 Naver**
+
 <br>
 
 ### 프로젝트  소개 
