@@ -28,17 +28,17 @@
 
 
 ## 프로젝트 개요
-### 개발 기간 
-**YYYY-MM-DD - YYYY-MM-DD**
+> ### 개발 기간 
+> **YYYY-MM-DD - YYYY-MM-DD**
 <br>
 
-### 프로젝트 명 
-**네이버 Naver**
+> ### 프로젝트 명 
+> **네이버 Naver**
 
 <br>
 
-### 프로젝트  소개 
-
+> ### 프로젝트  소개 
+>
 >더 이상 정보 검색은 단순히 검색어를 입력하는 것에서 끝나지 않습니다❌
 >
 >궁금한 정보를 찾고 싶은 사람, 최신 소식을 빠르게 확인하고 싶은 사람, 다양한 분야의 지식과 콘텐츠를 탐색하고 싶은 사람까지.
@@ -50,8 +50,8 @@
 > 일상의 모든 궁금증을 연결하는 서비스, `네이버 포털 프로젝트`에 오신 걸 환영합니다!
 <br>
 
-### 프로젝트 배경
-
+> ### 프로젝트 배경
+>
 > 포털 서비스는 단순한 정보 검색을 넘어 콘텐츠 공유, 사용자 간 소통, 구독 및 결제 등 다양한 서비스를 제공하는 플랫폼으로 발전하고 있습니다.
 >
 > 본 프로젝트는 회원 관리, 게시글 및 댓글, 구독, 결제, 알림 기능을 갖춘 통합 웹 포털 서비스를 구현하고자 합니다.
@@ -59,8 +59,8 @@
 > 이를 통해 실제 웹 서비스의 개발부터 클라우드 배포 및 운영까지 전체 개발 과정을 경험하고자 합니다.
 <br>
 
-### 프로젝트 목표
-
+> ### 프로젝트 목표
+> 
 > 사용자에게 편리한 서비스를 제공하고, 안정적인 웹 서비스 운영 환경을 구축하는 것이 목표입니다.
 
 1. **화면 및 워크플로우 설계**
@@ -87,16 +87,16 @@
 <br>
 
 
-## 배포 링크
-
+> ## 배포 링크
+> 
 > ### [ 배포 링크 - 네이버](https:www.naver.com)
 ---
 <br>
 
 
 
-## 프로젝트 발표 영상 & 발표 문서
-
+> ## 프로젝트 발표 영상 & 발표 문서
+>
 > ### [ 발표 영상 ](https://m.naver.com/shorts/?seedMediaId=8673FE6E09FC9AEA1D59EA67BC5F286A201F&serviceType=NTV)
 > ### [ 발표 문서 ](https://deview-serving.pstatic.net/v1/files?objectPath=data/deview/session/attach/%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%20%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB.pdf)
 ---
@@ -157,7 +157,7 @@
 ## 서비스 소개
 |   메인 화면 1  |  메인 화면 2  |   소셜 로그인 1   |
 |:--------:|:------:|:--------:|
-| <img src="https://lh6.googleusercontent.com/M7RxaY_ZsF5sQcqiIOafdBGHuVGqKrQ0c07hzOtLgkhxYTK-aRKWdhkMfi8DaoZxyDWLZKhdUEDKBIEpETcm2_sH5JdW69mrOXzASMQYHFEiaP0QbgCEHa5bnKzITG-v9ztn0QfbCeZtznJ8q-SDo2qoEA=s2048" alt="MainPage1"> |   <img src="https://lh6.googleusercontent.com/WSSZM-N1tpBvXui0ivLMaSJv5u-Jn8oUNXik40GOW7thMqmNdMPrjfO4-halmEZ80GuBBlI5ENm8TtDovjSOMRqHE6Z5w7F5yYxdplO643k3wfhyW4wT0IUT15Rv6kk_FAnST07-50NOOeXHjRfjh6dEBA=s2048" alt="MainPage2">  | <img src="https://lh6.googleusercontent.com/LgLnyK4xbij_SmBQd_9b-zKL7NjFBceXLFr97o-S9z4JMw7bZaO4E9W5SbwJn_xOAVu4xCk9Se0eqShfP8YkzkaL-QilqVa6LRaQEQ5h4PHLZOgmT8ZByBV-eEIZEr9D3I1mB6qu5nhIehup3910FytnrQ=s2048" alt="Login1"> |
+| <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |   <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" />  | <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |
 
 |                                                                                                          소셜 로그인 2                                                                                                           |                                                                                                              나눔글 등록 및 수정                                                                                                               |                                                                                                             나눔글 목록                                                                                                             |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
