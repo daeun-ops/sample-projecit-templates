@@ -236,21 +236,7 @@
 
 프로젝트 개발 과정에서 발생한 오류와 원인 분석, 해결 방법 및 결과를 기록한다.
 
-### 오류 해결 기록
-
-| 번호 | 발생 일자 | 오류 발생 영역 | 오류 내용 | 원인 | 해결 방법 | 담당자 | 상태 |
-|---|---|---|---|---|---|---|---|
-| 1 | YYYY-MM-DD | Backend | API 요청 시 서버 오류 발생 | 원인 분석 중 | 해결 방법 작성 | - | 진행 중 |
-| 2 | YYYY-MM-DD | Database | Entity 연관관계 및 데이터 조회 오류 | 원인 분석 중 | 해결 방법 작성 | - | 진행 중 |
-| 3 | YYYY-MM-DD | Frontend | API 연동 및 화면 렌더링 오류 | 원인 분석 중 | 해결 방법 작성 | - | 진행 중 |
-| 4 | YYYY-MM-DD | Payment | 결제 요청 및 상태 처리 오류 | 원인 분석 중 | 해결 방법 작성 | - | 진행 중 |
-| 5 | YYYY-MM-DD | Infrastructure | Docker 및 AWS 배포 오류 | 원인 분석 중 | 해결 방법 작성 | - | 진행 중 |
-
-<br>
-
-### 상세 오류 해결 기록
-
-#### 1. 오류 제목
+### 1. 오류 제목=
 
 - **발생 일자:** YYYY-MM-DD
 - **발생 영역:** Frontend / Backend / Database / Infrastructure
@@ -270,8 +256,8 @@
 - 반복적으로 발생한 오류 및 주요 원인
 - 오류 해결 과정에서 새롭게 학습한 내용
 - 향후 동일한 오류를 방지하기 위한 개선 사항
-
 ---
+<br>
 <br>
 
 
@@ -304,7 +290,7 @@
 
 ### Pull Request
 > ### Title
-> * 제목은 '[Feat] 홈 페이지 구현'과 같이 작성합니다.
+> * 제목은 '[Feat] 홈 페이지 구현'과 같이 작성한다.
 
 > ### PR Type
   > - [ ] FEAT: 새로운 기능 구현
@@ -319,11 +305,8 @@
   > - [ ] CHORE: 기타 작업
 
 > ### Description
-> * 구체적인 작업 내용을 작성해주세요.
-> * 이미지를 별도로 첨부하면 더 좋습니다 👍
-
-> ### Discussion
-> * 추후 논의할 점에 대해 작성해주세요.
+> * 구체적인 작업 내용을 작성한다.
+> * 이미지를 별도로 첨부하면 더 이해하기 좋다.
 
 ### Code Convention
 >BE
@@ -353,13 +336,13 @@
 
 ##  데일리 업무 문서
 
-프로젝트 진행 상황과 팀 내 논의 내용을 기록하는 문서입니다.
+프로젝트 진행 상황과 팀 내 논의 내용을 데일리로 기록하는 문서이다.
 
 | 문서 | 링크 |
 |---|---|
-| 일일 보고서 | [📜 일일 보고서](https://docs.google.com/document/d/1VADG9PE1jOEa0h00hW_9CdQzrC2PMZ7N/edit) |
-| 주간 보고서 | [📜 주간 보고서](https://docs.google.com/document/d/19p8oT2qFZUMvNyZ-Jyqs5UeX2_km47wu/edit) |
-| 회의록 | [📜 회의록](https://docs.google.com/document/d/1fJ-izDT6L1TEm5kn3i4rGu1lMUdJLHX3/edit) |
+| 일일 보고서 | [📜 양식 링크](https://docs.google.com/document/d/1VADG9PE1jOEa0h00hW_9CdQzrC2PMZ7N/edit) |
+| 주간 보고서 | [📜 양식 링크](https://docs.google.com/document/d/19p8oT2qFZUMvNyZ-Jyqs5UeX2_km47wu/edit) |
+| 회의록 | [📜 양식 링크](https://docs.google.com/document/d/1fJ-izDT6L1TEm5kn3i4rGu1lMUdJLHX3/edit) |
 
 ---
 <br>
@@ -374,33 +357,33 @@
 
 | 문서 | 링크 |
 |---|---|
-| 프로젝트 기획서 | [📜 프로젝트 기획서](https://docs.google.com/document/d/1CD_qHa5xQszhi_MgjN330SVCA-EEyPDy/edit) |
-| 요구사항 정의서 | [📜 요구사항 정의서](https://docs.google.com/document/d/1Iv43n-3osKQnb3YoMwAmue-7zBrUhj7s/edit) |
-| Use Case 명세서 | [📜 Use Case 명세서](https://docs.google.com/document/d/1mVU8aft3CnAgROAMgWKsysT92R6TkZe3/edit) |
-| 기능 정의서 | [📜 기능 정의서](https://docs.google.com/document/d/1sHWWTHl9ep9ThZqNtU9Li5582ynYw-HY/edit) |
-| 업무분해도(WBS) | [📜 업무분해도 WBS](https://docs.google.com/spreadsheets/d/18_BDexTKzuOpBxhwHW-rmOQkJc_7GfZ8/edit?gid=1334287492#gid=1334287492) |
+| 프로젝트 기획서 | [📜양식 링크](https://docs.google.com/document/d/1CD_qHa5xQszhi_MgjN330SVCA-EEyPDy/edit) |
+| 요구사항 정의서 | [📜 양식 링크](https://docs.google.com/document/d/1Iv43n-3osKQnb3YoMwAmue-7zBrUhj7s/edit) |
+| Use Case 명세서 | [📜 양식 링크](https://docs.google.com/document/d/1mVU8aft3CnAgROAMgWKsysT92R6TkZe3/edit) |
+| 기능 정의서 | [📜 양식 링크](https://docs.google.com/document/d/1sHWWTHl9ep9ThZqNtU9Li5582ynYw-HY/edit) |
+| 업무분해도(WBS) | [📜 양식 링크](https://docs.google.com/spreadsheets/d/18_BDexTKzuOpBxhwHW-rmOQkJc_7GfZ8/edit?gid=1334287492#gid=1334287492) |
 
 ### 2. 서비스 및 시스템 설계
 
 | 문서 | 링크 |
 |---|---|
-| 화면 설계서 | [📜 화면 설계서](https://docs.google.com/document/d/1fyY1KNKqNEnF9fo9juQuMgQvobdEkE9J/edit?usp=drive_web&ouid=114449420159385852563&rtpof=true) |
-| 서비스 흐름도 | [📜 서비스 흐름도](https://docs.google.com/document/d/1Zj_Jf7csMcP4LHGTah7pX5EcVLfU2mkC/edit) |
-| 시스템 아키텍처 | [📜 System Architecture](https://docs.google.com/document/d/1LY1Jge9iMfI5wRtpww4i37idEHc4cw1b/edit) |
-| 코딩 컨벤션 | [📜 Coding Convention](https://docs.google.com/document/d/16m2MI8gdaUgN9Rasa9IW7UVzxqJwdSIA/edit) |
+| 화면 설계서 | [📜 양식 링크](https://docs.google.com/document/d/1fyY1KNKqNEnF9fo9juQuMgQvobdEkE9J/edit?usp=drive_web&ouid=114449420159385852563&rtpof=true) |
+| 서비스 흐름도 | [📜 양식 링크](https://docs.google.com/document/d/1Zj_Jf7csMcP4LHGTah7pX5EcVLfU2mkC/edit) |
+| 시스템 아키텍처 | [📜 양식 링크](https://docs.google.com/document/d/1LY1Jge9iMfI5wRtpww4i37idEHc4cw1b/edit) |
+| 코딩 컨벤션 | [📜 양식 링크](https://docs.google.com/document/d/16m2MI8gdaUgN9Rasa9IW7UVzxqJwdSIA/edit) |
 
 ### 3. 데이터베이스 설계
 
 | 문서 | 링크 |
 |---|---|
-| 데이터 명세서 | [📜 Data 명세서](https://docs.google.com/document/d/1mUDy6IHqjiLcEQd6FRR5M7VoQ-AMdCXR/edit) |
-| ERD | [📜 ERD](https://docs.google.com/document/d/1FsBtXXKNfxjT4sIInFWjoBROxlmiXi4f/edit) |
-| 테이블 정의서 | [📜 Table 정의서](https://docs.google.com/document/d/1K_E1hNhgSLj-ReNuVOXT1Fa_0IrK-Lbc/edit) |
+| 데이터 명세서 | [📜 양식 링크](https://docs.google.com/document/d/1mUDy6IHqjiLcEQd6FRR5M7VoQ-AMdCXR/edit) |
+| ERD | [📜 양식 링크](https://docs.google.com/document/d/1FsBtXXKNfxjT4sIInFWjoBROxlmiXi4f/edit) |
+| 테이블 정의서 | [📜 양식 링크](https://docs.google.com/document/d/1K_E1hNhgSLj-ReNuVOXT1Fa_0IrK-Lbc/edit) |
 
 ### 4. 테스트 및 검증
 
 | 문서 | 링크 |
 |---|---|
-| 단위 테스트 | [📜 단위 테스트](https://docs.google.com/document/d/10PRDe8hVF9TYDZHCC_9wUgVaSRMR2j6R/edit) |
-| 시나리오 테스트 | [📜 시나리오 테스트](https://docs.google.com/document/d/1QebMizjnnXhN2LBkyC-TZRP0at6MophH/edit) |
+| 단위 테스트 | [📜 양식 링크](https://docs.google.com/document/d/10PRDe8hVF9TYDZHCC_9wUgVaSRMR2j6R/edit) |
+| 시나리오 테스트 | [📜 양식 링크](https://docs.google.com/document/d/1QebMizjnnXhN2LBkyC-TZRP0at6MophH/edit) |
 
