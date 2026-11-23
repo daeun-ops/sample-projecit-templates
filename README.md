@@ -105,6 +105,24 @@
 
 
 
+## 서비스 소개
+|   메인 화면 1  |  메인 화면 2  |   소셜 로그인 1   |
+|:--------:|:------:|:--------:|
+| <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |   <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" />  | <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |
+
+|   가능 1  |  기능 2  |   기능 3   |
+|:--------:|:------:|:--------:|
+| <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |   <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" />  | <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |
+
+|   가능 4  |  기능 5  |   기능 6   |
+|:--------:|:------:|:--------:|
+| <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |   <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" />  | <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |
+
+---
+<br>
+<br>
+<br>
+
 ## WBS 
 
 | 단계 | 작업 항목 | 세부 작업 내용 | 담당자 | 시작일 | 종료일 | 
@@ -152,22 +170,10 @@
 <br>
 
 
-## 서비스 소개
-|   메인 화면 1  |  메인 화면 2  |   소셜 로그인 1   |
-|:--------:|:------:|:--------:|
-| <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |   <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" />  | <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |
-
-|   가능 1  |  기능 2  |   기능 3   |
-|:--------:|:------:|:--------:|
-| <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |   <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" />  | <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |
-
-|   가능 4  |  기능 5  |   기능 6   |
-|:--------:|:------:|:--------:|
-| <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |   <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" />  | <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |
+## ERD 
+<img width="626" height="385" alt="image" src="https://github.com/user-attachments/assets/2a12ba4a-29cd-4f4c-a5f5-3120182eb0da" />
 
 ---
-<br>
-<br>
 <br>
 
 
@@ -178,12 +184,6 @@
 ---
 <br>
 
-
-## ERD 
-<img width="626" height="385" alt="image" src="https://github.com/user-attachments/assets/2a12ba4a-29cd-4f4c-a5f5-3120182eb0da" />
-
----
-<br>
 
 
 ## Skills
