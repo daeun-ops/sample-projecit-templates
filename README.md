@@ -1,5 +1,5 @@
 # Project-Sample 
-> ## 프로젝트 SR (Software Requirement) 안내 
+ ## 프로젝트 SR (Software Requirement) 안내 
 > SR(Software Requirement) 이란 프로젝트에서의 요구되는 것들이 무엇인지를 구체화 및 문서화하는 것을 의미한다.
 >프로젝트에서 구현해야 할 기능에 대해 구성원 전체가 논의하고 기획한 내용을 SR에 작성하도록 한다.
 > 제공한 문서 양식과 및 아래의 READ.MD를 꼭 참고하여 SR을 작성한다.
@@ -185,13 +185,13 @@
 
 | Category | Technology | Version |
 |---|---|---|
-| Language | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> | 선정 예정 |
-| Frontend | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> | 선정 예정 |
-| Frontend | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> | - |
-| Backend | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> | 선정 예정 |
-| ORM | <img src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square"> | 선정 예정 |
-| Database | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> | 선정 예정 |
-| API | <img src="https://img.shields.io/badge/Axios-671DDF?style=flat-square&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/Fetch_API-333333?style=flat-square"> | - |
+| Language | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> |  |
+| Frontend | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> |  |
+| Frontend | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> |  |
+| Backend | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> |  |
+| ORM | <img src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square"> |  |
+| Database | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> |  |
+| API | <img src="https://img.shields.io/badge/Axios-671DDF?style=flat-square&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/Fetch_API-333333?style=flat-square"> |  |
 
 <br>
 
@@ -199,7 +199,9 @@
 
 | Category | Technology | Version |
 |---|---|---|
-| Payment | PG 결제 API | 선정 예정 |
+| Payment | PG 결제 API |  |
+| Monitoring | <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white"> |  |
+| Monitoring | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"> |  |
 
 <br>
 
@@ -207,13 +209,11 @@
 
 | Category | Technology | Version |
 |---|---|---|
-| Container | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> | 선정 예정 |
-| Container | <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"> | 선정 예정 |
-| Web Server | <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"> | 선정 예정 |
-| CI/CD | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"> | - |
-| Cloud | <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"> | - |
-| Monitoring | <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white"> | - |
-| Monitoring | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"> | 선정 예정 |
+| Container | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> |  |
+| Container | <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"> |  |
+| Web Server | <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"> |  |
+| CI/CD | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"> |  |
+| Cloud | <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"> |  |
 
 <br>
 
@@ -221,12 +221,12 @@
 
 | Category | Technology | Version |
 |---|---|---|
-| Version Control | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> | - |
-| Repository | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> | - |
-| API Testing | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"> | - |
-| Design | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> | - |
-| Documentation | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> | - |
-| Communication | <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> | - |
+| Version Control | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> |  |
+| Repository | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> |  |
+| API Testing | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"> |  |
+| Design | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> |  |
+| Documentation | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> |  |
+| Communication | <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> |  |
 
 ---
 <br>
@@ -236,16 +236,7 @@
 
 프로젝트 개발 과정에서 발생한 오류와 원인 분석, 해결 방법 및 결과를 기록한다.
 
-### 1. 오류 제목=
 
-- **발생 일자:** YYYY-MM-DD
-- **발생 영역:** Frontend / Backend / Database / Infrastructure
-- **담당자:** 
-- **오류 내용:** 
-- **발생 원인:** 
-- **해결 방법:** 
-- **해결 결과:** 
-- **참고 자료:** 
 
 <br>
 <br>
