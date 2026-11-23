@@ -238,13 +238,14 @@
 프로젝트 개발 과정에서 발생하는 오류, 해결이 어려운 문제, 기능 개선 사항 및 기술적 질문을 GitHub Issues를 통해 관리한다.
 
 
-| 유형 | 이슈 제목 | 주요 내용 | 바로가기 |
+| Issue Type | Issue | content | Issue Link |
 |---|---|---|---|
-| 🐛 Bug | 로그인 API 500 Internal Server Error | 로그인 요청 시 서버 오류 발생 및 원인 분석 | [Issue #2](https://github.com/daeun-ops/sample-projecit-templates/issues/2) |
-| 🆘 Help | React - Backend API 연동 문제 | CORS 오류 및 API 연동 문제 해결 요청 | [Issue #3](https://github.com/daeun-ops/sample-projecit-templates/issues/3) |
-| ✨ Enhancement | 게시글 검색 기능 개선 | 검색 필터 및 정렬 기능 추가 요청 | [Issue #4](https://github.com/daeun-ops/sample-projecit-templates/issues/4) |
-| ❓ Question | JWT Token 관리 방식 문의 | Access Token 및 Refresh Token 관리 방식에 대한 기술적 질문 | [Issue #5](https://github.com/daeun-ops/sample-projecit-templates/issues/5) |
+|  **Bug** | 로그인 API 500 Internal Server Error | 로그인 요청 시 서버 오류 발생 및 원인 분석 | [Issue #2](https://github.com/daeun-ops/sample-projecit-templates/issues/2) |
+| **Help** | React - Backend API 연동 문제 | CORS 오류 및 API 연동 문제 해결 요청 | [Issue #3](https://github.com/daeun-ops/sample-projecit-templates/issues/3) |
+|  **Enhancement** | 게시글 검색 기능 개선 | 검색 필터 및 정렬 기능 추가 요청 | [Issue #4](https://github.com/daeun-ops/sample-projecit-templates/issues/4) |
+|  **Question** | JWT Token 관리 방식 문의 | Access Token 및 Refresh Token 관리 방식에 대한 기술적 질문 | [Issue #5](https://github.com/daeun-ops/sample-projecit-templates/issues/5) |
 <br>
+
 ### Issue 관리 규칙
 - 오류가 발생하면 Bug Report를 작성한다.
 - 혼자 해결하기 어려운 문제는 Help를 통해 도움을 요청한다.
@@ -254,11 +255,13 @@
 - 관련 Pull Request가 있다면 Issue와 연결한다.
 
 <br>
+
 ### 회고 및 개선 사항
 
 - 반복적으로 발생한 오류 및 주요 원인
 - 오류 해결 과정에서 새롭게 학습한 내용
 - 향후 동일한 오류를 방지하기 위한 개선 사항
+  
 ---
 <br>
 <br>
